@@ -1,7 +1,7 @@
 # \[Lfd137\]
 
 **Group members:**
-- Søren Frich Bang
+- Søren Frich Bang 
 
 This repository contains  
 1. Inaugural project. 
